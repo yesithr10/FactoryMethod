@@ -1,0 +1,7 @@
+Insertar producto
+http://localhost:8080/insertarProducto?tipoBaseDatos=MySQL&id=1&descripcion=Producto1&precio=100.0
+
+Listar
+http://localhost:8080/productos?tipoBaseDatos=MySQL
+
+
